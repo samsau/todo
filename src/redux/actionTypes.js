@@ -1,0 +1,9 @@
+export const ADD_TODO = "ADD_TODO";
+export const TOGGLE_TODO = "TOGGLE_TODO";
+export const REMOVE_TODO = "REMOVE_TODO";
+// export const DELETE_TODO = "DELETE_TODO";
+export const MARK_COMPLETE = "MARK_COMPLETE";
+export const MARK_INCOMPLETE = "MARK_INCOMPLETE";
+export const FILTER_TODO = "FILTER_TODO";
+export const MARK_ALL_COMPLETED = "MARK_ALL_COMPLETED";
+export const UPDATE_SEARCHED_TERM = "UPDATE_SEARCHED_TERM";
